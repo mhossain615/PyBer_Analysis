@@ -21,7 +21,7 @@ I have also included a picture showing the difference between the two
 [![Summary](/Resources/PyBer_ride_data.csv)
 
 and to make things easier i have also included a chart which shows 
-[FareChart](https://github.com/mhossain615/PyBer_Analysis/blob/master/Fare_summary.png)
+[![FareChart](https://github.com/mhossain615/PyBer_Analysis/blob/master/Fare_summary.png)
 
 
 ## Conclusion
