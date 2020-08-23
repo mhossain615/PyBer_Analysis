@@ -18,7 +18,7 @@ Which tells us the lower drivers and rides in a neighborhood creates higher fare
 Urban has the most total fares but it does have more then twice the amount of what rural has.
 
 I have also included a picture showing the difference between the two
-[![Summary](/Resources/PyBer_ride_data.csv)
+[![Summary](https://github.com/mhossain615/PyBer_Analysis/blob/master/Resources/Summary.png)
 
 and to make things easier i have also included a chart which shows 
 [![FareChart](https://github.com/mhossain615/PyBer_Analysis/blob/master/Fare_summary.png)
